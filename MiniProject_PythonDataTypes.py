@@ -1,4 +1,4 @@
-# Mini Project: Python Data Types Demo
+#    Mini Project: Python Data Types Demo
 
 # Integer datatype
 a = 5
